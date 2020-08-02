@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/-@Mataya_CL-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mataya_CL)
 [![Twitter](https://img.shields.io/badge/-@Mataya_CL-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Mataya_CL)
 
-[![HTB](http://www.hackthebox.eu/badge/image/39495)](https://www.hackthebox.eu/users/profile/39495)
+[![HTB](http://www.hackthebox.eu/badge/image/39495)](https://www.hackthebox.eu/profile/39495)
 ## Member of [Cntr0llz](https://www.cntr0llz.com) :fox_face:
 ## Skills :computer:
 * ![Steganography](https://img.shields.io/badge/-Steganography-blue)
