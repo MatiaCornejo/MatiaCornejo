@@ -13,4 +13,4 @@
 ## Stats 
 ![Profile-stats](https://github-readme-stats.vercel.app/api?username=matiacornejo&show_icons=true&theme=merko)![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiacornejo&layout=compact&theme=merko)
 ## Security research
-[![CVE-2020-9199]](https://matiacornejo.github.io/posts/CVE-2020-9199/)
+[![CVE-2020-9199](https://img.shields.io/badge/CVE-2020--9199-red)](https://matiacornejo.github.io/posts/CVE-2020-9199/)
