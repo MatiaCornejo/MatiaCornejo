@@ -7,6 +7,8 @@
 ## Member of [Cntr0llz](https://www.cntr0llz.com) :fox_face:
 
 ## Skills :computer:
+* ![Pentesting](https://img.shields.io/badge/-Pentesting-red)
+* ![Cyber Intelligence](https://img.shields.io/badge/-Cyber%20Intelligence-cyan)
 * ![Steganography](https://img.shields.io/badge/-Steganography-blue)
 * ![Scripting](https://img.shields.io/badge/-Scripting-green)
 * ![Data Analyst](https://img.shields.io/badge/-Data%20Analyst-orange)
